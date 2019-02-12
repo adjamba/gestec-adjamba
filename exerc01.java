@@ -1,5 +1,5 @@
 /*Estrutura de repitição
- *
+ *Autor: Jamba
  * */
 public class exerc01{
   public static void main(String args[]){
